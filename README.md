@@ -28,13 +28,6 @@ O visual é inspirado em grandes portais de tecnologia, com layout escuro (dark 
 - HTML5
 - CSS3 (Flexbox e Grid)
 
-## 📸 Captura de Tela
-
-### Página Inicial
-![TechNews - Página Inicial](assets/screenshot1.png)
-
-> *As imagens acima mostram parte da interface do projeto rodando localmente.*
-
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 
