@@ -67,15 +67,15 @@ main .not{
 
 .tema{
 
-    display: inline-block; /* Faz o elemento se ajustar ao conteúdo */
-    text-align: center; /* Centraliza o texto */
-    font-size: 0.8rem; /* Tamanho da fonte */
-    background-color: #1D4ED8; /* Cor do fundo */
-    padding: 4px 8px 4px 8px; /* Espaçamento interno */
-    height: 20px; /* Altura fixa */
-    color: #CBD5E1; /* Cor do texto */
-    font-weight: 100; /* Peso da fonte */
-    border-radius: 4px; /* Adiciona borda arredondada para um estilo mais suave (opcional) */
+    display: inline-block; 
+    text-align: center; 
+    font-size: 0.8rem;
+    background-color: #1D4ED8; 
+    padding: 4px 8px 4px 8px; 
+    height: 20px; 
+    color: #CBD5E1;
+    font-weight: 100; 
+    border-radius: 4px; 
 
     
 }
@@ -118,7 +118,7 @@ main .not{
 
 .notmain div{
     height: 67px;
-    overflow: hidden; /* Esconde o conteúdo extra, caso haja */
+    overflow: hidden;
     text-overflow: ellipsis;
     margin-top: -70px;
     margin-left: 10px;
